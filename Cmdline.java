@@ -1,4 +1,4 @@
-public class Calculator {
+public class Cmdline {
     public static void main(String[] args) {
         // Check if enough arguments are provided
         if (args.length != 3) {
